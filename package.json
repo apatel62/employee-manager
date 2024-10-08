@@ -1,0 +1,21 @@
+{
+  "name": "develop",
+  "version": "1.0.0",
+  "description": "module 10 challenge",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "inquirer": "^8.2.4",
+    "pg": "^8.13.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/pg": "^8.11.10"
+  }
+}
